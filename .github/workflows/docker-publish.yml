@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: docker_username/githubtodockerhub:latest  # Replace with your Docker Hub username and repository name
+          tags: docker_username/main:latest  # Replace with your Docker Hub username and repository name
